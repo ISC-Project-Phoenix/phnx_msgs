@@ -25,6 +25,7 @@ find_package(rosidl_default_runtime REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
         "msg/Track.msg"
         "msg/TrackArray.msg"
+        "msg/Contours.msg"
         DEPENDENCIES std_msgs geometry_msgs
         )
 
