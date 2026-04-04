@@ -27,6 +27,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
         "msg/Track.msg"
         "msg/TrackArray.msg"
         "msg/Contours.msg"
+        "msg/PIDVal.msg"
         DEPENDENCIES std_msgs geometry_msgs
         )
 

@@ -1,0 +1,7 @@
+float32 set_value 0
+float32 process_value 0
+float32 error 0
+float32 value_p 0
+float32 value_i 0
+float32 value_d 0
+float32 control 0
