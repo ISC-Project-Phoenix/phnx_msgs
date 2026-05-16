@@ -4,4 +4,7 @@ float32 error 0
 float32 value_p 0
 float32 value_i 0
 float32 value_d 0
+float32 coeff_p 0
+float32 coeff_i 0
+float32 coeff_d 0
 float32 control 0
